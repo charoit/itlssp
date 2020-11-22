@@ -1,5 +1,5 @@
 // Package ITL is s device drivers.
-package ssp
+package itlssp
 
 import "github.com/sigurn/crc16"
 
